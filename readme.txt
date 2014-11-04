@@ -17,7 +17,7 @@ It can sometimes be difficult to get affiliates to register on your website. Thi
 
 **How it works**
 
-When an affiliate registers through the AffiliateWP registration form or is manually added from within the admin, a sign up bonus will be given to the affiliate in the form of a referral. The amount of the bonus can be configured from Affiliates -> Settings -> Integrations
+When an affiliate registers through the AffiliateWP registration form or is manually added from within the admin, a sign up bonus will be given to the affiliate in the form of a referral. The amount of the bonus can be configured from Affiliates &rarr; Settings &rarr; Integrations
 
 The referral will be created with a description of "Sign Up Bonus" which can be viewed from Affiliates → Referrals. The affiliate will see this on their affiliate dashboard under "Unpaid Earnings".
 
