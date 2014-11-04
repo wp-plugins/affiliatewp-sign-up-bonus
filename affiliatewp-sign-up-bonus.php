@@ -103,7 +103,7 @@ function affwp_sub_admin_settings( $settings = array() ) {
 
 	$settings[ 'sign_up_bonus' ] = array(
 		'name' => __( 'Affiliate Sign Up Bonus', 'affiliatewp-sign-up-bonus' ),
-		'desc' => __( 'Enter the amount an affiliate should receive when they register.', 'affiliatewp-sign-up-bonus' ),
+		'desc' => '<p class="description">' . __( 'Enter the amount an affiliate should receive when they register.', 'affiliatewp-sign-up-bonus' ) . '</p>',
 		'type' => 'number',
 		'size' => 'small',
 		'step' => '1.0',
